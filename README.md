@@ -266,5 +266,3 @@ dele password matches is true
 
 [GitHub Repository](https://github.com/k1005/spring-multiple-password-encoder)
 에 전체 소스가 있습니다.
-
----
